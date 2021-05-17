@@ -62,3 +62,15 @@ topics:
   - name: Hadoop
     web_url: https://hadoop.apache.org/
     image_url: https://banner2.cleanpng.com/20180811/ie/kisspng-apache-hadoop-logo-hadoop-distributed-file-system-big-data-weekly-quiz-getindata-5b6e73c46d0f95.0828181915339652524467.jpg
+  - name: R
+    web_url: https://github.com/topics/r
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png
+  - name: Java
+    web_url: https://github.com/topics/java
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
+  - name: Pandas
+    web_url: https://github.com/topics/pandas
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png
+  - name: Pytorch
+    web_url: https://github.com/topics/pytorch
+    image_url: https://pytorch.org/assets/images/pytorch-logo.png
