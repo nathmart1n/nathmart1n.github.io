@@ -40,13 +40,13 @@
           <div class="mr-3">
             {% assign service_shortname = account[0] %}
             {% assign service = site.data.social_media[service_shortname] %}
-            <a href="{{ service.profile_url_prefix }}{{ account[1] }}" class="tooltipped tooltipped-se" aria-label="{{ service.name }}: {{ account[1] }}">
+            <a href="{{ service.profile_url_prefix }}{{ account[1] }}" target="_blank" class="tooltipped tooltipped-se" aria-label="{{ service.name }}: {{ account[1] }}">
               {{ service.icon_svg }}<span class="d-none">{{ service.name }}</span>
             </a>
           </div>
         {% endfor %}
         <div class="mb-3">
-            <a href="https://www.strava.com/athletes/11366018" class="tooltipped tooltipped-se" aria-label="Strava: Nathan Martin">
+            <a href="https://www.strava.com/athletes/11366018" target="_blank" class="tooltipped tooltipped-se" aria-label="Strava: Nathan Martin">
               <svg height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 18"><image xlink:href="https://www.vectorlogo.zone/logos/strava/strava-icon.svg" src="https://www.vectorlogo.zone/logos/strava/strava-icon.svg" width="20" height="20"/> </svg><span class="d-none">Strava</span>
             </a>
         </div>
