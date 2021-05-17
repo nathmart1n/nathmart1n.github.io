@@ -26,7 +26,8 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     - user-sentiment-with-KNN
+     - Yes-we-GAN
 
 # social_media:
   # behance: your_username
